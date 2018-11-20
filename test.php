@@ -1,3 +1,3 @@
 <?php
 
-echo 'test GIT';
+echo 'test GIT branch';
